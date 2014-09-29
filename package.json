@@ -1,0 +1,27 @@
+{
+  "name": "tidal-js-service",
+  "version": "0.0.1",
+  "description": "tidal-js-service is a webservice for someone who want to use a js sandbox.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TidalAPI/tidal-js-service.git"
+  },
+  "keywords": [
+    "TidalAPI",
+    "tidal-sandbox-service",
+    "tidal-sandbox"
+  ],
+  "author": "何洋 <abruzzi.hraig@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TidalAPI/tidal-js-service/issues"
+  },
+  "homepage": "https://github.com/TidalAPI/tidal-js-service",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  }
+}
