@@ -23,5 +23,8 @@
   "homepage": "https://github.com/TidalAPI/tidal-js-service",
   "devDependencies": {
     "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "restify": "^2.8.2"
   }
 }
